@@ -1,0 +1,83 @@
+body { background-color: #CCCCCC;
+      font-family: 'Open Sans';
+
+}
+
+#wrapper { width: 960px;
+           padding: 15px;
+           margin: auto;
+           background-color: white;
+           overflow: hidden;
+
+}
+
+#head { background-color: #C51417;
+         padding: 10px;
+         margin-bottom: 10px;
+         overflow: hidden;
+}
+
+.navbar { background-color: #333333;
+          overflow: hidden;
+          
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+  }
+
+.citat { color: white;
+         font-size: 23px;
+         float: right;
+         position: relative;
+          left: -5px;
+          top: -20px;  
+ }
+
+ #main { width: 700px;
+         float: left;
+
+ }
+
+ #side { width: 240px;
+         float: right;
+}
+
+#footer { background-color: #333333;
+          clear: both;
+          padding: 7px;
+}
+
+.ftext { color: white;
+          position: relative;
+          right: -410px;      
+
+}
+
+h1 { font-weight:normal;
+}
+
+h2 { font-weight:normal;  
+}
+
+h2.desni { background-color: #BBBBBB;
+           color: white;
+           padding: 10px;
+}
+
+.crvenilink { color: #C51417; 
+              text-decoration: none;
+}
+
+.ikonice { float: right;
+           height: 24px;
+           width: 24px;
+           background-color: #CCCCCC;     
+
+}
